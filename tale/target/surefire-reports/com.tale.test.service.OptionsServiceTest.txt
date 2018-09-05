@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.tale.test.service.OptionsServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.419 sec

@@ -1,0 +1,5 @@
+<Row className={'main_layout'} type="flex">
+                <Col span={24}>
+
+                </Col>
+            </Row>
